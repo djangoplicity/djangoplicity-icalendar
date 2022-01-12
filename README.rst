@@ -90,15 +90,15 @@ More documentation
 Consult this example_ for introductory doctests and explanations. Here
 are two smaller_ examples_.
 
-.. _example: example.html
-.. _smaller: small.html
-.. _examples: groupscheduled.html
-.. _multiple: multiple.html
+.. _example: https://github.com/djangoplicity/djangoplicity-icalendar/blob/master/doc/example.txt
+.. _smaller: https://github.com/djangoplicity/djangoplicity-icalendar/blob/master/doc/small.txt
+.. _examples: https://github.com/djangoplicity/djangoplicity-icalendar/blob/master/doc/groupscheduled.txt
+.. _multiple: https://github.com/djangoplicity/djangoplicity-icalendar/blob/master/doc/multiple.txt
 
 All modules and classes also have doctests that shows how they
 work. There is also an `interfaces.py`_ file which describes the API.
 
-.. _`interfaces.py`: interfaces.py
+.. _`interfaces.py`: https://github.com/djangoplicity/djangoplicity-icalendar/blob/master/src/icalendar/interfaces.py
 
 Mailing list
 ============

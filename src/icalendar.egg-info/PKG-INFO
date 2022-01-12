@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
-Name: icalendar
+Name: djangoplicity-icalendar
 Version: 2.1
 Summary: iCalendar parser/generator
-Home-page: http://codespeak.net/icalendar/
+Home-page: https://github.com/djangoplicity/djangoplicity-icalendar
 Author: MaxM
 Author-email: maxm@mxm.dk
 License: GPL2.1
